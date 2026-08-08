@@ -1,4 +1,4 @@
-# 🎬 NexPlay - The Ultimate Donghua & Anime Experience
+# 🎬 NexPlay - Donghua & Anime
 
 ![NexPlay](https://i.ibb.co.com/JWfK6bfm/logo.jpg)
 
