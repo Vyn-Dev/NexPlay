@@ -1,6 +1,6 @@
 # 🎬 NexPlay - The Ultimate Donghua & Anime Experience
 
-![NexPlay Banner]([https://i.ibb.co.com/JWfK6bfm/logo.jpg])
+![NexPlay Banner]([https://ibb.co.com/kVRxbrR5])
 
 **NexPlay** bukan sekadar aplikasi streaming biasa. Ini adalah platform revolusioner yang dirancang khusus untuk memanjakan para pecinta Anime dan Donghua. Lebih dari sekadar tempat menonton, NexPlay adalah ekosistem komunitas di mana kamu bisa berinteraksi, berdiskusi, dan berbagi *hype* di setiap episodenya!
 
